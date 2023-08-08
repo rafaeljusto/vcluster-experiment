@@ -21,7 +21,7 @@ spec:
       name: 'pr-demo--{{branch}}--pr-{{number}}'
     spec:
       source:
-        repoURL: 'https://github.com/mtougeron/hundreds-of-clusters-demo.git'
+        repoURL: 'https://github.com/rafaeljusto/vcluster-experiment.git'
         targetRevision: 'HEAD'
         path: apps/vcluster-generator
         helm:
