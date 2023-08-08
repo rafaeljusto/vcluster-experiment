@@ -2,12 +2,6 @@
 
 Demo repository for the code for the "_Hundreds of Clusters Sitting in a Tree with Argo CD_" talk at [GitOpsCon NA 2022](https://sched.co/1AR8S).
 
-## WARNING!!!
-
-**WARNING**: Thar **_BE SERIOUS_** dragons here...
-
-If you leave the PR generator running on a public repo, someone could apply apply things onto your cluster that you don't want installed. *DO NOT DO THIS!*
-
 ## Create the needed namespaces
 
 ```sh
