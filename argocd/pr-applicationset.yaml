@@ -8,8 +8,8 @@ spec:
   generators:
     - pullRequest:
         github:
-          owner: mtougeron
-          repo: hundreds-of-clusters-demo
+          owner: rafaeljusto
+          repo: vcluster-experiment
           # Optional, but useful so that you don't have rate-limiting problems if
           # using a private cluster but it's better to use a webhook if you can
           # https://argocd-applicationset.readthedocs.io/en/stable/Generators-Pull-Request/#webhook-configuration
